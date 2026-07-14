@@ -10,17 +10,15 @@ body {
 
 .header-box {
     background-color: #2e3e51;
-    border-bottom: 2px solid black;
-    height: 100px;
+    border-bottom: 2px solid black height: 100px;
     width: 100%;
-    color: rgb(0, 0, 0);
     text-align: center;
     text-transform: uppercase;
     padding: 15px
 }
 
 h1 {
-    color: rgb(3, 1, 1);
+    color: rgb(255, 255, 255);
 
     font-size: 40px;
 }
@@ -40,4 +38,5 @@ h1 {
     width: 100%;
     color: rgb(0, 0, 0);
     padding: 20px;
+    text-align: center;
 }
